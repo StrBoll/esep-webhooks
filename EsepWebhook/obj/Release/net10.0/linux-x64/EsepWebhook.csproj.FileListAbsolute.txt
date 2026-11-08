@@ -1,0 +1,17 @@
+/Users/phillipboll3/Desktop/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.deps.json
+/Users/phillipboll3/Desktop/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.runtimeconfig.json
+/Users/phillipboll3/Desktop/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.dll
+/Users/phillipboll3/Desktop/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.pdb
+/Users/phillipboll3/Desktop/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/Amazon.Lambda.Core.dll
+/Users/phillipboll3/Desktop/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/phillipboll3/Desktop/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.csproj.AssemblyReference.cache
+/Users/phillipboll3/Desktop/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phillipboll3/Desktop/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.AssemblyInfoInputs.cache
+/Users/phillipboll3/Desktop/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.AssemblyInfo.cs
+/Users/phillipboll3/Desktop/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.csproj.CoreCompileInputs.cache
+/Users/phillipboll3/Desktop/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebh.2DAAD0C6.Up2Date
+/Users/phillipboll3/Desktop/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.dll
+/Users/phillipboll3/Desktop/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/refint/EsepWebhook.dll
+/Users/phillipboll3/Desktop/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.pdb
+/Users/phillipboll3/Desktop/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.genruntimeconfig.cache
+/Users/phillipboll3/Desktop/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/ref/EsepWebhook.dll
